@@ -18,3 +18,7 @@
 		border: 10px solid orange ;
 		float: left;
 }
+table, th, td {
+				border: 1px solid black;
+				position:center-right;
+}
